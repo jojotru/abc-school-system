@@ -30,13 +30,13 @@ const Login = () => {
 
 
     const handleSubmit = async (e) => {
-        e.preventDefault()
+        e.preventDefault();
         try {
-            const { accessToken } = await login({ username, password }).unwrap()
-            dispatch(setCredentials({ accessToken }))
-            setUsername('')
-            setPassword('')
-            navigate('/dash')
+            const { accessToken } = await login({ username, password }).unwrap();
+            dispatch(setCredentials({ accessToken }));
+            setUsername('');
+            setPassword('');
+            navigate('/dash');
         } catch (err) {
             if (!err.status) {
                 setErrMsg('No Server Response');
@@ -47,9 +47,12 @@ const Login = () => {
             } else {
                 setErrMsg(err.data?.message);
             }
-            errRef.current.focus();
+            if (errRef.current) {
+                errRef.current.focus();
+            }
         }
     }
+
 
     const handleUserInput = (e) => setUsername(e.target.value)
     const handlePwdInput = (e) => setPassword(e.target.value)
