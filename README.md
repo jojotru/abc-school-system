@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+# ABC School System MERN Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🍎 The purpose of this application is to help people in the teaching field collaborate and preapre for the upcoming school year. This idea came to me when I was helping a teacher friend gather supplies for the upcoming school year. 
 
-## Available Scripts
+🍎 Check it out [here](https://abc-school-system.onrender.com/)!
 
-In the project directory, you can run:
+🎓 *Login credientals provided on landing page for testing/preview.*
 
-### `npm start`
+🍎 This application allows users to create, read, update, and delete tasks. Admins have the master access and is allowed to delete and create users. Each user is able to log in with their own username and password to add and complete tasks. Created with MERN stack.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1307" alt="Screenshot 2024-07-28 at 12 11 07 AM" src="https://github.com/user-attachments/assets/cb06808c-c905-41ab-a5d9-3c4e8e031ef3">
+<img width="1349" alt="Screenshot 2024-07-28 at 12 11 41 AM" src="https://github.com/user-attachments/assets/8b7e6b88-f930-4de4-8e91-b4025afb2a50">
+<img width="1211" alt="Screenshot 2024-07-28 at 12 12 19 AM" src="https://github.com/user-attachments/assets/6929a55a-170e-4d84-af2a-f0190046ff61">
+<img width="978" alt="Screenshot 2024-07-28 at 12 13 23 AM" src="https://github.com/user-attachments/assets/d1739a2b-a158-401a-b3e4-609e644ecc6a">
