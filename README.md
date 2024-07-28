@@ -1,4 +1,4 @@
-# ABC School System MERN Project
+# ABC School System MERN Project ✏️
 
 🍎 The purpose of this application is to help people in the teaching field collaborate and preapre for the upcoming school year. This idea came to me when I was helping a teacher friend gather supplies for the upcoming school year. 
 
