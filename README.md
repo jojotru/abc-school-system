@@ -2,7 +2,7 @@
 
 🍎 The purpose of this application is to help people in the teaching field collaborate and preapre for the upcoming school year. This idea came to me when I was helping a teacher friend gather supplies for the upcoming school year. 
 
-🍎 Check it out [here](https://abc-school-system.onrender.com/)!
+🍎 Check it out [here](https://abc-school-system-api.onrender.com/)!
 
 🎓 *Login credientals provided on landing page for testing/preview.*
 
